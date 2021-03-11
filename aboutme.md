@@ -4,10 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Atualmente cursando o 5º período em Bacharelado de Engenharia de Computação pelo Instituto Federal de Educação,
+Ciência e Tecnologia de São Paulo - IFSP - Campus Birigui. Entusiasta em novas tecnologias como Machine Learning,
+Data Science, Robótica, IOT e desenvolvimento de hardware.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
 What else do you need?
 
