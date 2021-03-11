@@ -4,11 +4,11 @@ title: 5º PERÍODO
 subtitle: Engenharia da Computação
 ---
 
-- SOPE5
-- LMAE5
-- GPRE5
-- COPE5
-- CELE5
-- BDAE5
-- [APSE5](apse.md) 
-- ACAE5
+- #[SOPE5](cursos/5periodo/sope.md) 
+- #[LMAE5](cursos/5periodo/lmae.md) 
+- #[GPRE5](cursos/5periodo/gpre.md) 
+- #[COPE5](cursos/5periodo/cope.md) 
+- #[CELE5](cursos/5periodo/cele.md) 
+- #[BDAE5](cursos/5periodo/bdae.md) 
+- #[APSE5](cursos/5periodo/apse.md) 
+- #[ACAE5](cursos/5periodo/acae.md) 
