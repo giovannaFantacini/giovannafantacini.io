@@ -10,7 +10,7 @@ Atualmente cursando o 5º período em Bacharelado de Engenharia de Computação 
 
 
 ## Formação Acadêmica 
-<img src="assets/img/ifsp.png" height="100" width="100" />
+<img src="assets/img/ifsp.png"  />
 ##### Bacharelado Engenharia de Computação
 ##### Período  2019 – 2023
 
