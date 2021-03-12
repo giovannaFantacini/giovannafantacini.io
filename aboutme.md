@@ -10,7 +10,7 @@ Atualmente cursando o 5º período em Bacharelado de Engenharia de Computação 
 
 
 ## Formação Acadêmica 
-<img src="assets/img/if.png" height="100" width="100" /> Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP
+<img src="assets/img/if.png" height="75" width="75" /> Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP
 Bacharelado Engenharia de Computação
 Período  2019 – 2023
 
