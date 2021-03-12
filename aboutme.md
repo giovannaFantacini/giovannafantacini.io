@@ -11,7 +11,8 @@ Atualmente cursando o 5º período em Bacharelado de Engenharia de Computação 
 
 ## Formação Acadêmica
 
-![https://bri.ifsp.edu.br/](assets/img/ifsp2.png)  ##### Instituto Federal de São Paulo
+![https://bri.ifsp.edu.br/](assets/img/ifsp2.png)
+##### Instituto Federal de São Paulo
 ##### Bacharelado Engenharia de Computação
 ##### Período  2019 – 2023
 
