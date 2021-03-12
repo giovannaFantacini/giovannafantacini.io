@@ -10,3 +10,70 @@ cover-img:
 <h3>Links Rápidos</h3>
 <a href="https://pedro-pauletti.github.io/pedropauletti.github.io/aboutme/"><button style="background: #8B0000; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">MINHA HISTÓRIA</button></a>
 <a href="https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/apse/"><button style="background: #008000; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">APSE- ATIVIDADES REALIZADAS</button></a>
+
+<div class="container center-align">
+  <div class="avatar">
+    <img
+      src=" {{ site.baseurl }}img/avatar.jpg"
+      class="responsive-img"
+      id="avatar"
+      alt="Anil Khatri Profile Image."
+    />
+  </div>
+
+  <div class="name">
+    <strong
+      ><span id="target-mark"></span><span id="target"></span
+      ><span id="target-cursor"></span
+    ></strong>
+  </div>
+
+  <div>
+    <h5 id="test1">
+      <span style="color:#929292;">I'm a </span>Software Engineer
+      <span style="color:#929292;">at</span>
+      <span class="hov"><a href="http://twitter.com/Vogo_rentals" target="_blank">Vogo</a>
+      </span>.
+    </h5>
+
+    <h5 id="test2">
+      <span style="color:#929292;">I'm a </span>Pythonista
+      <span style="color:#929292;">and an</span> Open Source Enthusiast,<span
+        style="color:#929292;"
+      >
+        who is always
+      </span>
+      curious to learn and build new things.
+    </h5>
+
+    <h5 id="test3">
+      <span style="color:#929292;">I love to</span> Play Football
+      <span style="color:#929292;">and</span> want to contribute towards Indian
+      Football.
+    </h5>
+
+    <h5 id="test4">
+      <span style="color:#929292;">I love</span> reading Books
+      <span style="color:#929292;">and</span> listening Music.
+    </h5>
+
+    <h5 id="test5">
+      Check out my academic &amp; professional
+      <span class="hov"
+        ><a href="{{ site.baseurl }}resume.html" target="_blank"
+          >Resume</a
+        ></span
+      >.
+    </h5>
+
+    <h5 id="test6">
+      You can reach me at
+      <span class="hov">
+        <a href="http://twitter.com/{{ site.twitter }}" target="_blank"
+          >@{{ site.twitter }}</a>
+      </span>
+       or by <span class="hov"><a href="mailto:{{ site.email}}" target="_blank">email</a></span>.
+    </h5>
+  </div>
+  {% include social.html %}
+</div>
