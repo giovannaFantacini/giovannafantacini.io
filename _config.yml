@@ -18,7 +18,11 @@ navbar-links:
   Graduação:
     - 5º Período: "quintoperiodo"
   Projetos: "projects"
-
+  Recomendações:
+    - Livros: "books"
+    - Filmes: "films"
+    - Youtube: "youtube"
+    
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
