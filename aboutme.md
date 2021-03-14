@@ -10,7 +10,7 @@ subtitle: Estudante Engenharia da Computação
 ---
 
 ## Minha História
-<div style="text-align: justify"> Originalmente de Agudos-SP, desde de pequeno era fascinado em computadores e tecnologia, o que facilitou bastante na tomada de dicisão para qual carreira gostaria de seguir. Após finalizar o Ensino Médio em 2018, em 2019, encontrei na Engenharia da Computação a oportunidade de dar início na minha formação acadêmica estuando o que sempre me interessou e cada dia mais tenho a certeza de que escolhi a área correta que desejo trabalhar e contribuir com pesquisas e projetos.</div>
+<div style="text-align: justify"> Originalmente de Agudos-SP, desde de pequeno era fascinado em computadores e tecnologia, o que facilitou bastante na tomada de dicisão para qual carreira gostaria de seguir. Após finalizar o Ensino Médio em 2018, em 2019, encontrei na Engenharia da Computação a oportunidade de dar início na minha formação acadêmica estuando o que sempre me interessou, e cada dia mais tenho a certeza de que escolhi a área correta para trabalhar e contribuir com pesquisas e projetos.</div>
 
 ---
 
@@ -25,4 +25,7 @@ subtitle: Estudante Engenharia da Computação
 
 ## Licenças e Certificados
 
-
+![GMF](https://media-exp1.licdn.com/dms/image/C4E0BAQEoBHXBhJoQxw/company-logo_200_200/0/1590543538937?e=1623888000&v=beta&t=5Z7ZvQvfhzaLH_MXeFbHYqzXjPehZZWPzu6ArpErgFo)
+##### Investimentos no Mercado Financeiro - Módulo 1
+##### Grupo de Mercado Financeiro - UNICAMP
+###### [Número da Credencial 155c5bb555ef312cbc9980b2fbdb1675](http://www.extecamp.unicamp.br/dac/validacert_resp_novo.asp?curso=ECO-1500&via=&ver=true&ofer=007&rg=50423690&id=443328&barra=155c5bb555ef312cbc9980b2fbdb1675)
