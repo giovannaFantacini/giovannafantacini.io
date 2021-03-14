@@ -37,4 +37,6 @@ subtitle: Estudante Engenharia da Computação
 ##### Curso de Inglês - WIZARD
 ###### Período  2020 – Presente
 
+---
 
+## Experiência
