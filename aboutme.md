@@ -4,7 +4,7 @@ title: Pedro Henrique Ton Pauletti
 subtitle: Estudante Engenharia da Computação
 ---
 
-<div style="text-align: justify"> Atualmente cursando o 5º período em Bacharelado de Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP - Campus Birigui. Entusiasta em novas tecnologias como Machine Learning, Data Science, Robótica, IOT e desenvolvimento de hardware.
+<div style="text-align: justify"> Atualmente cursando o 5º período em Bacharelado de Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP - Campus Birigui. Entusiasta em novas tecnologias como Machine Learning, Data Science, Robótica, IOT, Desenvolvimento de hardware, Astronomia e Astrofísica.
 </div>
 
 ---
@@ -29,3 +29,12 @@ subtitle: Estudante Engenharia da Computação
 ##### Investimentos no Mercado Financeiro - Módulo 1
 ##### Grupo de Mercado Financeiro - UNICAMP
 ###### [Número da Credencial 155c5bb555ef312cbc9980b2fbdb1675](http://www.extecamp.unicamp.br/dac/validacert_resp_novo.asp?curso=ECO-1500&via=&ver=true&ofer=007&rg=50423690&id=443328&barra=155c5bb555ef312cbc9980b2fbdb1675)
+
+---
+
+## Idiomas 
+![WIZARD](assets/img/wizard.png)
+##### Curso de Inglês - WIZARD
+###### Período  2020 – Presente
+
+
