@@ -7,5 +7,6 @@ subtitle: Atividades Realizadas
 ---
 layout: minimal
 title: Elaboração de Portfólio
-subtitle:
+subtitle: Teste
 ---
+
