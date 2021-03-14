@@ -17,9 +17,9 @@ subtitle: Estudante Engenharia da Computação
 ## Formação Acadêmica
 
 ![https://bri.ifsp.edu.br/](assets/img/ifsp2.png)
-##### Instituto Federal de São Paulo
-##### Bacharelado Engenharia de Computação
-##### Período  2019 – 2023
+##### Instituto Federal de São Paulo Campus Birigui
+###### Bacharelado Engenharia de Computação
+###### Período  2019 – 2023
 
 ---
 
