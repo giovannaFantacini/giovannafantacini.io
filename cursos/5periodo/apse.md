@@ -4,7 +4,8 @@ title: APSE - ANÁLISE E PROJETO DE SISTEMAS
 subtitle: Atividades Realizadas
 ---
 
-#Tabela de Atividades
+# Tabela de Atividades
+
 | Data    | Atividade      | Disponivél em |
 | ------- |:--------------:| -----------------------------:|
 | 10/03   | Elaboração de Portfólio| https://pedro-pauletti.github.io/pedropauletti.github.io/ |
