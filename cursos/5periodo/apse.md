@@ -21,5 +21,5 @@ subtitle: Atividades Realizadas
 
 ## ➡ 10/03 Definição do grupo para o trabalho
 - Grupo: Pedro Henrique Ton Pauletti / Leonardo Neves Perles 
-- Projeto: 
-- Descrição:
+- Projeto: Sistema de Venda Inteligente para Componentes de Computadores
+- Descrição: O projeto consiste em desenvolver um sistema onde o usuário seleciona os componentes que deseja comprar para seu computador e, a partir das peças selecionadas, o sistema apresenta opções de componentes compatíveis. Dessa forma, o usuário consegue selecionar todos os componentes necessários para seu computador de maneira segura e de forma 100% compatível garantindo um maior desempenho da máquina.
