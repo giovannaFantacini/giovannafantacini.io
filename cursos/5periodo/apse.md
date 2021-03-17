@@ -20,6 +20,6 @@ subtitle: Atividades Realizadas
 ---
 
 ## ➡ 10/03 Definição do grupo para o trabalho
-- Grupo:
+- Grupo: Pedro Henrique Ton Pauletti / Leonardo Neves Perles 
 - Projeto: 
 - Descrição:
