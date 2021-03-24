@@ -28,4 +28,4 @@ subtitle: Atividades Realizadas
 
 ---
 
-## ➡ [24/03 Estudo de Viabilidade]("estudoViabilidade.md")
+## ➡ [24/03 Estudo de Viabilidade](cursos/5periodo/estudoViabilidade.md)
