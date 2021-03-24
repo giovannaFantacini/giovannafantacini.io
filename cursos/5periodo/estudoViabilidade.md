@@ -12,6 +12,8 @@ O estudo de viabilidade visa tanto a tomada de decisão como a sugestão de poss
  ▪ Se o produto final irá ou não beneficiar os usuários interessados
  ▪ Sscolha das alternativas entre as possíveis soluções
  ▪ A melhor alternativa?
+ 
+ ---
 
 ### Tipos de Testes de Viabilidade
 
@@ -23,6 +25,8 @@ O estudo de viabilidade visa tanto a tomada de decisão como a sugestão de poss
 está o cronograma do projeto.
 
  **Viabilidade econômica:** é uma avaliação de custo-eficiência de um projeto ou solução. Conhecida como análise de custo-benefício.
+
+---
 
 ### Viabilidade Operacional
 
@@ -58,6 +62,7 @@ está o cronograma do projeto.
 ◾ Tão logo os requisitos específicos e soluções sejam identificados, o analista pode levar em consideração os custos e benefícios de cada alternativa.
   ▪ Isso é chamado de análise de custo-benefício.
 
+---
 
 ### Tipos de Custos
 
@@ -68,6 +73,8 @@ está o cronograma do projeto.
  **Custos operacionais (contínuo)**
  ▪ Manutenção: hardware (manutenção, aluguel, materiais,...), software (pagamento para manutenção e contratos), facilidades
  ▪ Pessoal: operação, manutenção
+ 
+ ---
 
 ### Benefícios - Tangíveis X Intangíveis
 
