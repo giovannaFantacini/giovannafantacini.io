@@ -28,4 +28,4 @@ subtitle: Atividades Realizadas
 
 ---
 
-## ➡ [24/03 Estudo de Viabilidade](aboutme.md)
+## ➡ [24/03 Estudo de Viabilidade](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/estudoViabilidade/)
