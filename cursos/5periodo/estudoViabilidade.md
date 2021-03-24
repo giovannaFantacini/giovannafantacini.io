@@ -13,9 +13,13 @@ O estudo de viabilidade visa tanto a tomada de decisão como a sugestão de poss
  ▪ Sscolha das alternativas entre as possíveis soluções
  ▪ A melhor alternativa?
  
+ </div>
+ 
  ---
 
 ### Tipos de Testes de Viabilidade
+
+<div style="text-align: justify">
 
  **Viabilidade operacional:** é uma medida do grau de adequação da solução para a organização. É também uma avaliação de como as pessoas se sentem sobre o sistema/projeto.
 
@@ -26,9 +30,13 @@ está o cronograma do projeto.
 
  **Viabilidade econômica:** é uma avaliação de custo-eficiência de um projeto ou solução. Conhecida como análise de custo-benefício.
 
+</div>
+
 ---
 
 ### Viabilidade Operacional
+
+<div style="text-align: justify">
 
 ◾ Avalia a urgência do problema (visão e fases de estudo) ou a aceitação da solução (definição, seleção, aquisição, e fases do projeto).
 
@@ -36,7 +44,11 @@ está o cronograma do projeto.
   ▪ O problema vale a pena ser resolvido ou a solução proposta para o problema funcionará?
   ▪ Como o usuário final e a gerência sentem sobre o problema (solução)?
   
+  </div>
+  
 ### Viabilidade Técnica
+
+<div style="text-align: justify">
 
 ◾ A solução ou a tecnologia proposta é prática?
 
@@ -44,8 +56,11 @@ está o cronograma do projeto.
 
 ◾ Já possuímos o conhecimento técnico necessário. O cronograma está razoável?
 
+</div>
 
 ### Viabilidade de Cronograma
+
+<div style="text-align: justify">
 
 ◾ Dado nosso conhecimento técnico, os prazos dos projetos são razoáveis?
 
@@ -55,16 +70,23 @@ está o cronograma do projeto.
 
 ◾ Se são mais desejáveis que obrigatórios, o analista pode propor outros cronogramas.
 
+</div>
 
 ### Viabilidade Econômica
+
+<div style="text-align: justify">
 
 ◾ Durante as fases iniciais do projeto, a análise da viabilidade econômica consiste em julgar se os possíveis benefícios de solucionar o problema são ou não vantajosos.
 ◾ Tão logo os requisitos específicos e soluções sejam identificados, o analista pode levar em consideração os custos e benefícios de cada alternativa.
   ▪ Isso é chamado de análise de custo-benefício.
 
+</div>
+
 ---
 
 ### Tipos de Custos
+
+<div style="text-align: justify">
 
  **Custos de desenvolvimento de sistemas**
   ▪ Custos de desenvolvimento e aquisição: quem constrói o sistema (internamente ou contratado por fora)? software usado (comprado ouconstruído)? hardware (o que     comprar,compra/aluguel)? Facilidades (lugar, comunicações, poder,...)
@@ -74,9 +96,13 @@ está o cronograma do projeto.
  ▪ Manutenção: hardware (manutenção, aluguel, materiais,...), software (pagamento para manutenção e contratos), facilidades
  ▪ Pessoal: operação, manutenção
  
+ </div>
+ 
  ---
 
 ### Benefícios - Tangíveis X Intangíveis
+
+<div style="text-align: justify">
 
  **Tangíveis:** Aqueles que podem ser facilmente quantificados.
   ▪ Benefícios tangíveis são, usualmente, medidos em termos de economia mensal ou anual ou de vantagens para a empresa.
@@ -86,5 +112,5 @@ está o cronograma do projeto.
   ▪ Exemplos: melhoria da satisfação do cliente e melhoria da moral do empregado.
   ▪ Infelizmente, se um benefício não pode ser quantificado, é difícil aceitar a validade de uma análise de custo-benefício que está baseada em dados incompletos.
 
-
 </div>
+
