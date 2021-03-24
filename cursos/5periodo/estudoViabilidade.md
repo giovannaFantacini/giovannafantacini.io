@@ -86,8 +86,6 @@ O estudo de viabilidade visa tanto a tomada de decisão como a sugestão de poss
  ▪ Manutenção: hardware (manutenção, aluguel, materiais,...), software (pagamento para manutenção e contratos), facilidades<br>
  ▪ Pessoal: operação, manutenção<br>
  
- </div>
- 
  ---
 
 ### Benefícios - Tangíveis X Intangíveis
