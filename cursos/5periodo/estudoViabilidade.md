@@ -70,7 +70,7 @@ O estudo de viabilidade visa tanto a tomada de decisão como a sugestão de poss
 ◾ Durante as fases iniciais do projeto, a análise da viabilidade econômica consiste em julgar se os possíveis benefícios de solucionar o problema são ou não vantajosos.<br>
 
 ◾ Tão logo os requisitos específicos e soluções sejam identificados, o analista pode levar em consideração os custos e benefícios de cada alternativa.<br>
-  ▪ Isso é chamado de análise de custo-benefício.<br>
+    ▪ Isso é chamado de análise de custo-benefício.<br>
 
 
 ---
