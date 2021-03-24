@@ -3,7 +3,7 @@ layout: page
 title: Estudo de Viabilidade
 subtitle: Atividade APSE
 ---
-<div style="text-align: justify">
+
   
 O estudo de viabilidade visa tanto a tomada de decisão como a sugestão de possíveis alternativas de solução se um sistema de informação pode ser feito.
 
@@ -13,7 +13,7 @@ O estudo de viabilidade visa tanto a tomada de decisão como a sugestão de poss
  ▪ Sscolha das alternativas entre as possíveis soluções
  ▪ A melhor alternativa?
  
- </div>
+
  
  ---
 
