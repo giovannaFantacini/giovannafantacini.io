@@ -7,7 +7,7 @@ subtitle: Atividade APSE
   
 O estudo de viabilidade visa tanto a tomada de decisão como a sugestão de possíveis alternativas de solução se um sistema de informação pode ser feito.
 
- Um estudo de viabilidade deve oferecer a gerência de informações para ajudar a decisão:
+ Um estudo de viabilidade deve oferecer a gerência de informações para ajudar a decisão:··
  ▪ Se o projeto pode ou não ser feito
  ▪ Se o produto final irá ou não beneficiar os usuários interessados
  ▪ Sscolha das alternativas entre as possíveis soluções
@@ -19,18 +19,17 @@ O estudo de viabilidade visa tanto a tomada de decisão como a sugestão de poss
 
 ### Tipos de Testes de Viabilidade
 
-<div style="text-align: justify">
 
- **Viabilidade operacional:** é uma medida do grau de adequação da solução para a organização. É também uma avaliação de como as pessoas se sentem sobre o sistema/projeto.
 
- **Viabilidade técnica:** é uma avaliação da praticidade de uma solução técnica específica e a disponibilidade dos recursos técnicos e dos especialistas.
+ **Viabilidade operacional:** é uma medida do grau de adequação da solução para a organização. É também uma avaliação de como as pessoas se sentem sobre o sistema/projeto.<br>
 
- **Viabilidade de cronograma:** é uma avaliação de quão razoável
-está o cronograma do projeto.
+ **Viabilidade técnica:** é uma avaliação da praticidade de uma solução técnica específica e a disponibilidade dos recursos técnicos e dos especialistas.<br>
 
- **Viabilidade econômica:** é uma avaliação de custo-eficiência de um projeto ou solução. Conhecida como análise de custo-benefício.
+ **Viabilidade de cronograma:** é uma avaliação de quão razoável está o cronograma do projeto.<br>
 
-</div>
+ **Viabilidade econômica:** é uma avaliação de custo-eficiência de um projeto ou solução. Conhecida como análise de custo-benefício.<br>
+
+
 
 ---
 
