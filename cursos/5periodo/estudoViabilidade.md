@@ -10,7 +10,7 @@ O estudo de viabilidade visa tanto a tomada de decisão como a sugestão de poss
 🔹 Um estudo de viabilidade deve oferecer a gerência de informações para ajudar a decisão:<br>
  ▪ Se o projeto pode ou não ser feito<br>
  ▪ Se o produto final irá ou não beneficiar os usuários interessados<br>
- ▪ Sscolha das alternativas entre as possíveis soluções<br>
+ ▪ Escolha das alternativas entre as possíveis soluções<br>
  ▪ A melhor alternativa?<br>
  
 
