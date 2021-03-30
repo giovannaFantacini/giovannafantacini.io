@@ -31,4 +31,6 @@ subtitle: Atividades Realizadas
 
 ## ➡ [24/03 Estudo de Viabilidade](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/estudoViabilidade/)
 
+---
+
 ## ➡ [30/03 Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](Sistema Inteligente de Venda de Componentes de Computadores - APSE.pdf)
