@@ -11,6 +11,7 @@ subtitle: Atividades Realizadas
 | 10/03   | Elaboração de Portfólio| https://pedro-pauletti.github.io/pedropauletti.github.io/ |
 | 10/03   | Definição do grupo para o trabalho| Descrição abaixo|
 | 24/03   | Estudo de Viabilidade| https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/estudoViabilidade/ |
+| 30/03   | Documentação Projeto - Estudo de Viabilidade| https://drive.google.com/file/d/1XgCHfFYZwYPpj3rZc5dLNXsHXBhwCK8K/view?usp=sharing |
 
 ---
 
@@ -33,4 +34,4 @@ subtitle: Atividades Realizadas
 
 ---
 
-## ➡ [30/03 Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1ggnS5C5oj8dgGM-YI3UTkiIfcLhfhTPo/view?usp=sharing)
+## ➡ [30/03 Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1XgCHfFYZwYPpj3rZc5dLNXsHXBhwCK8K/view?usp=sharing)
