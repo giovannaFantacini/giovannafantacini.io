@@ -33,4 +33,4 @@ subtitle: Atividades Realizadas
 
 ---
 
-## ➡ [30/03 Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](Sistema Inteligente de Venda de Componentes de Computadores - APSE.pdf)
+## ➡ [30/03 Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1ggnS5C5oj8dgGM-YI3UTkiIfcLhfhTPo/view?usp=sharing)
