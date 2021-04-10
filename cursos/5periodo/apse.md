@@ -6,7 +6,7 @@ subtitle: Atividades Realizadas
 
 # Tabela de Atividades
 
-| Data    | Atividade      | Disponivél em |
+| Data    | Atividade      | Disponível em |
 | ------- |:--------------:| -----------------------------:|
 | 10/03   | Elaboração de Portfólio| https://pedro-pauletti.github.io/pedropauletti.github.io/ |
 | 10/03   | Definição do grupo para o trabalho| Descrição abaixo|
