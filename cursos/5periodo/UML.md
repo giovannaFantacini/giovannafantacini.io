@@ -29,7 +29,7 @@ No diagrama acima temos os três elementos que citamos:
 
 ### 3 – Relacionamentos: casos de uso relacionam entre si, ma especificação da UML são definidos alguns tipos de relacionamento para casos de uso, mas os três principais relacionamentos são: Inclusão (Include), Extensão (Extends) e Herança (Generalization).
 
-# 6.	o que é o relacionamento extends?
+# 6.	O que é o relacionamento extends?
 Quando o caso de uso B estende o caso de uso A, significa que quando o caso de uso A for executado o caso de uso B poderá (poderá – talvez não seja) ser executado também. A direção do relacionamento é do caso de uso extensor (aqui o caso de uso B) para o caso de uso estendido (aqui o caso de uso A).
 
 # 7.	o que é o relacionamento includes?
