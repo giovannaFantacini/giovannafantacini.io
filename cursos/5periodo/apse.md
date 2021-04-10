@@ -40,3 +40,6 @@ subtitle: Atividades Realizadas
 ---
 
 ## ➡ [07/04 Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1VnzbYQ6Dk5GoLkhSSlpqbr74bLLbBNRK/view?usp=sharing)
+---
+
+## ➡ [14/04 Pesquisa UML](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/UML/)
