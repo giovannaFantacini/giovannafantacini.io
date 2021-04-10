@@ -36,6 +36,6 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 Quando o caso de uso A “inclui” o caso de uso B, significa que sempre que o caso de uso A for executado o caso de uso B também será executado. A direção do relacionamento é do caso de uso que está incluindo para o caso de uso incluído.
 
 # Referências
-### ▶ https://www.ateomomento.com.br/diagramas-uml/ 
-### ▶ https://www.ateomomento.com.br/o-que-e-caso-de-uso/ 
-### ▶ https://www.ateomomento.com.br/caso-de-uso-include-extend-e-generalizacao/
+### ▶ <https://www.ateomomento.com.br/diagramas-uml/>
+### ▶ <https://www.ateomomento.com.br/o-que-e-caso-de-uso/>
+### ▶ <https://www.ateomomento.com.br/caso-de-uso-include-extend-e-generalizacao/>
