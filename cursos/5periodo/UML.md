@@ -23,11 +23,11 @@ O Diagrama de Caso de Uso serve para representar como os casos de uso interagem 
 # 5.	Quais são os elementos do diagrama de casos de uso?
 No diagrama acima temos os três elementos que citamos:
 
-### 1 – Ator: quem fará a execução do caso de uso (quem executará a funcionalidade que está especificada no caso de uso). Atores podem ser de dois tipos: humano e sistêmico.
+**1 – Ator:** quem fará a execução do caso de uso (quem executará a funcionalidade que está especificada no caso de uso). Atores podem ser de dois tipos: humano e sistêmico.
 
-### 2 – Casos de uso: são os fluxos (Principal, Alternativo e Exceção). Cada fluxo possui uma série de passos (steps), e uma lógica sequencial que demonstra, passo a passo, como o fluxo é executado.
+**2 – Casos de uso:** são os fluxos (Principal, Alternativo e Exceção). Cada fluxo possui uma série de passos (steps), e uma lógica sequencial que demonstra, passo a passo, como o fluxo é executado.
 
-### 3 – Relacionamentos: casos de uso relacionam entre si, ma especificação da UML são definidos alguns tipos de relacionamento para casos de uso, mas os três principais relacionamentos são: Inclusão (Include), Extensão (Extends) e Herança (Generalization).
+**3 – Relacionamentos:** casos de uso relacionam entre si, ma especificação da UML são definidos alguns tipos de relacionamento para casos de uso, mas os três principais relacionamentos são: Inclusão (Include), Extensão (Extends) e Herança (Generalization).
 
 # 6.	O que é o relacionamento extends?
 Quando o caso de uso B estende o caso de uso A, significa que quando o caso de uso A for executado o caso de uso B poderá (poderá – talvez não seja) ser executado também. A direção do relacionamento é do caso de uso extensor (aqui o caso de uso B) para o caso de uso estendido (aqui o caso de uso A).
