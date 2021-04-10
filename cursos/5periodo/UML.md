@@ -10,6 +10,8 @@ subtitle: Atividade APSE
 Esta linguagem é expressa através de diagramas. Cada diagrama é composto por elementos (formas gráficas usadas para os desenhos) que possuem relação entre si.
 Os diagramas da UML se dividem em dois grandes grupos: diagramas estruturais e diagramas comportamentais.</div><br>
 
+<center><img src="<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/220px-UML_logo.svg.png" alt="drawing"></center>" alt="drawing" style="width:300px; height:300px;"/></center>
+
 ## 2.	Quais são os diagramas comportamentais?
 
 <div style="text-align: justify">Diagramas estruturais devem ser utilizados para especificar detalhes da estrutura do sistema (parte estática), por exemplo: classes, métodos, interfaces, namespaces, serviços, como componentes devem ser instalados, como deve ser a arquitetura do sistema, etc.</div><br>
