@@ -3,6 +3,10 @@ layout: page
 title: APSE - ANÁLISE E PROJETO DE SISTEMAS
 subtitle: Atividades Realizadas
 ---
+# Documentação do Projeto PARTSCHECK (Sistema de Venda Inteligente para Componentes de Computadores)
+### Ultima Atualização: 14/04
+### ➡ [Documentação do Projeto]()
+
 
 # Tabela de Atividades
 
@@ -14,6 +18,7 @@ subtitle: Atividades Realizadas
 | 30/03   | Documentação Projeto - Estudo de Viabilidade| https://drive.google.com/file/d/1XgCHfFYZwYPpj3rZc5dLNXsHXBhwCK8K/view?usp=sharing |
 | 07/04   | Documento de Software - Projeto| https://drive.google.com/file/d/1VnzbYQ6Dk5GoLkhSSlpqbr74bLLbBNRK/view?usp=sharing |
 | 14/04   | Pesquisa - UML| https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/UML/|
+| 14/04   | Atualização da Documentação do Projeto| |
 
 ---
 
