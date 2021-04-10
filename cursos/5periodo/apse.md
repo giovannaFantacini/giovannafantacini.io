@@ -3,10 +3,12 @@ layout: page
 title: APSE - ANÁLISE E PROJETO DE SISTEMAS
 subtitle: Atividades Realizadas
 ---
-# Documentação do Projeto PARTSCHECK (Sistema de Venda Inteligente para Componentes de Computadores)
-### Ultima Atualização: 14/04
-### ➡ [Documentação do Projeto]()
 
+# Documentação do Projeto PARTSCHECK (Sistema de Venda Inteligente para Componentes de Computadores)
+## Ultima Atualização: 14/04
+## ➡ [Documentação do Projeto]()
+
+---
 
 # Tabela de Atividades
 
