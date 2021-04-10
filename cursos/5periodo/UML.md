@@ -20,9 +20,9 @@ Os diagramas da UML se dividem em dois grandes grupos: diagramas estruturais e d
 
 ## 4.	O que é o diagrama de casos de uso?
 
-<div style="text-align: justify">O Diagrama de Caso de Uso serve para representar como os casos de uso interagem entre si no sistema e com os usuários (atores), ou seja, como as funcionalidades se relacionarão umas com as outras e como serão utilizadas pelo usuário, durante o uso do sistema.</div><br>
+<div style="text-align: justify">O Diagrama de Caso de Uso serve para representar como os casos de uso interagem entre si no sistema e com os usuários (atores), ou seja, como as funcionalidades se relacionarão umas com as outras e como serão utilizadas pelo usuário, durante o uso do sistema.</div>
 
-<img src="https://user-images.githubusercontent.com/57163905/114277989-0044fd00-9a04-11eb-8ced-7dcd473fd8a8.png" alt="drawing" style="width:300px; height:300px;"/>
+<center><img src="https://user-images.githubusercontent.com/57163905/114277989-0044fd00-9a04-11eb-8ced-7dcd473fd8a8.png" alt="drawing" style="width:300px; height:300px;"/></center>
 
 ## 5.	Quais são os elementos do diagrama de casos de uso?
 
@@ -43,6 +43,6 @@ No diagrama acima temos os três elementos que citamos:
 <div style="text-align: justify">Quando o caso de uso A “inclui” o caso de uso B, significa que sempre que o caso de uso A for executado o caso de uso B também será executado. A direção do relacionamento é do caso de uso que está incluindo para o caso de uso incluído.</div><br>
 
 # Referências
-### ▶ <https://www.ateomomento.com.br/diagramas-uml/>
-### ▶ <https://www.ateomomento.com.br/o-que-e-caso-de-uso/>
-### ▶ <https://www.ateomomento.com.br/caso-de-uso-include-extend-e-generalizacao/>
+#### ▶ <https://www.ateomomento.com.br/diagramas-uml/>
+#### ▶ <https://www.ateomomento.com.br/o-que-e-caso-de-uso/>
+#### ▶ <https://www.ateomomento.com.br/caso-de-uso-include-extend-e-generalizacao/>
