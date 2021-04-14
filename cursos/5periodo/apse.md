@@ -15,7 +15,7 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 
 | **Data**    | **Atividade**      |
 | ------- |:--------------------------------------------------------------------------------------------:| 
-| **10/03**   | ✔ **Elaboração de Portfólio](https://pedro-pauletti.github.io/pedropauletti.github.io/)**|
+| **10/03**   | ✔ **[Elaboração de Portfólio](https://pedro-pauletti.github.io/pedropauletti.github.io/)**|
 | **10/03**   | **Definição do grupo para o trabalho (Descrição abaixo)** |
 | **24/03**   | ✔ **[Pesquisa Estudo de Viabilidade](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/estudoViabilidade/)**| 
 | **30/03**   | ✔ **[Documento de Software - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1XgCHfFYZwYPpj3rZc5dLNXsHXBhwCK8K/view?usp=sharing)**|
