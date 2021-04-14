@@ -1,7 +1,7 @@
 ---
 layout: page
 title: APSE
-subtitle:  ANÁLISE E PROJETO DE SISTEMAS - Atividades Realizadas
+subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 ---
 
 
@@ -27,9 +27,9 @@ subtitle:  ANÁLISE E PROJETO DE SISTEMAS - Atividades Realizadas
 
 
 
-# Atividades Detalhadas 
+## Atividades Detalhadas 
 
-## ➡ 10/03 Definição do grupo para o trabalho
+### ➡ 10/03 Definição do grupo para o trabalho
 
 - Grupo: Pedro Henrique Ton Pauletti / Leonardo Neves Perles <br>
 - Projeto: Sistema de Venda Inteligente para Componentes de Computadores <br>
