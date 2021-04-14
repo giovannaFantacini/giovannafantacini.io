@@ -4,8 +4,11 @@ title: APSE - ANÁLISE E PROJETO DE SISTEMAS
 subtitle: Atividades Realizadas
 ---
 
-### ![File](https://static.thenounproject.com/png/3319514-200.png) [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1WukKOJ-8SEApePBkNXMESjueVbcEtur5/view?usp=sharing)
-## Ultima Atualização: 14/04
+
+# ![File](https://findicons.com/files/icons/1579/devine/256/file.png) [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1WukKOJ-8SEApePBkNXMESjueVbcEtur5/view?usp=sharing)
+#### Ultima Atualização: 14/04
+
+
 ---
 
 # Tabela de Atividades
@@ -21,6 +24,8 @@ subtitle: Atividades Realizadas
 | **14/04**   | ✔ **[Atualização da Documentação do Projeto](https://drive.google.com/file/d/1WukKOJ-8SEApePBkNXMESjueVbcEtur5/view?usp=sharing)**|
 
 ---
+
+
 
 # Atividades Detalhadas 
 
