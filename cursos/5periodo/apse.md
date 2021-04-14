@@ -1,7 +1,7 @@
 ---
 layout: page
-title: APSE - ANÁLISE E PROJETO DE SISTEMAS
-subtitle: Atividades Realizadas
+title: APSE
+subtitle:  ANÁLISE E PROJETO DE SISTEMAS - Atividades Realizadas
 ---
 
 
