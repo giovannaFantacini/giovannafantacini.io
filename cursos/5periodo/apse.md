@@ -5,7 +5,7 @@ subtitle: Atividades Realizadas
 ---
 
 
-# ![File](https://findicons.com/files/icons/1579/devine/256/file.png =50x) [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1WukKOJ-8SEApePBkNXMESjueVbcEtur5/view?usp=sharing)
+## <img src="https://natulifecosmeticos.lojavirtual.com.br/arquivo/index/358535/17724_defult_text1509562877676.png" alt="drawing" style="width:100px;"/> [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1WukKOJ-8SEApePBkNXMESjueVbcEtur5/view?usp=sharing)
 #### Ultima Atualização: 14/04
 
 
