@@ -5,7 +5,7 @@ subtitle: Atividades Realizadas
 ---
 
 
-# ![File](https://findicons.com/files/icons/1579/devine/256/file.png) [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1WukKOJ-8SEApePBkNXMESjueVbcEtur5/view?usp=sharing)
+# ![File](https://findicons.com/files/icons/1579/devine/256/file.png =50x) [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1WukKOJ-8SEApePBkNXMESjueVbcEtur5/view?usp=sharing)
 #### Ultima Atualização: 14/04
 
 
