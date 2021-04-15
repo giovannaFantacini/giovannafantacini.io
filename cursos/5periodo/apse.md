@@ -5,7 +5,7 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 ---
 
 
-## <img src="https://natulifecosmeticos.lojavirtual.com.br/arquivo/index/358535/17724_defult_text1509562877676.png" alt="drawing" style="width:100px;"/> [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1WukKOJ-8SEApePBkNXMESjueVbcEtur5/view?usp=sharing)
+## <img src="https://natulifecosmeticos.lojavirtual.com.br/arquivo/index/358535/17724_defult_text1509562877676.png" alt="drawing" style="width:100px;"/> [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)
 #### Ultima Atualização: 14/04
 
 
@@ -18,10 +18,10 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 | **10/03**   | ✔ **[Elaboração de Portfólio](https://pedro-pauletti.github.io/pedropauletti.github.io/)**|
 | **10/03**   | **Definição do grupo para o trabalho (Descrição abaixo)** |
 | **24/03**   | ✔ **[Pesquisa Estudo de Viabilidade](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/estudoViabilidade/)**| 
-| **30/03**   | ✔ **[Documento de Software - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1XgCHfFYZwYPpj3rZc5dLNXsHXBhwCK8K/view?usp=sharing)**|
-| **07/04**   | ✔ **[Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1VnzbYQ6Dk5GoLkhSSlpqbr74bLLbBNRK/view?usp=sharing)**|
+| **30/03**   | ✔ **[Documento de Software - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)**|
+| **07/04**   | ✔ **[Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1tf5nk5hEe9Z2cilPjQB7ETzz626zTIhF/view?usp=sharing)**|
 | **14/04**   | ✔ **[Pesquisa UML](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/UML/)**|
-| **14/04**   | ✔ **[Atualização da Documentação do Projeto](https://drive.google.com/file/d/1WukKOJ-8SEApePBkNXMESjueVbcEtur5/view?usp=sharing)**|
+| **14/04**   | ✔ **[Atualização da Documentação do Projeto](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)**|
 
 ---
 
