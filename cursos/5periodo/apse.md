@@ -7,7 +7,8 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 
 ## <img src="https://natulifecosmeticos.lojavirtual.com.br/arquivo/index/358535/17724_defult_text1509562877676.png" alt="drawing" style="width:100px;"/> [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)
 #### Última Atualização: 21/04
-<br>
+
+
 ## <img src="https://image.flaticon.com/icons/png/512/2132/2132433.png" alt="drawing" style="width:100px;"/> [MAPA MENTAL AULAS APSE](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)
 #### Última Atualização: 21/04
 
