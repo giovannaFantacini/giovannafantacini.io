@@ -25,8 +25,8 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 | **07/04**   | ✔ **[Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1tf5nk5hEe9Z2cilPjQB7ETzz626zTIhF/view?usp=sharing)**|
 | **14/04**   | ✔ **[Pesquisa UML](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/UML/)**|
 | **14/04**   | ✔ **[Atualização da Documentação do Projeto](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)**|
-| **21/04**   | ✔ **[Atualização da Documentação do Projeto - Diagramas de Classes](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)**|
-| **12/05**   | ✔ **[Atualização da Documentação do Projeto - Diagramas de Sequência](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)**|
+| **21/04**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Classes](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)**|
+| **12/05**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Sequência](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)**|
 
 ---
 
