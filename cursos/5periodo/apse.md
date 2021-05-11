@@ -6,7 +6,7 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 
 
 ## <img src="https://natulifecosmeticos.lojavirtual.com.br/arquivo/index/358535/17724_defult_text1509562877676.png" alt="drawing" style="width:100px;"/> [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)
-#### Última Atualização: 21/04
+#### Última Atualização: 12/05
 
 
 ## <img src="https://image.flaticon.com/icons/png/512/2132/2132433.png" alt="drawing" style="width:100px;"/> [MAPA MENTAL AULAS APSE](https://drive.google.com/file/d/1LhOWLk0UF-vw-7PS2lB53uRwpOWC4xLm/view?usp=sharing)
@@ -26,6 +26,7 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 | **14/04**   | ✔ **[Pesquisa UML](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/UML/)**|
 | **14/04**   | ✔ **[Atualização da Documentação do Projeto](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)**|
 | **21/04**   | ✔ **[Atualização da Documentação do Projeto - Diagramas de Classes](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)**|
+| **12/05**   | ✔ **[Atualização da Documentação do Projeto - Diagramas de Sequência](https://drive.google.com/file/d/1tp3fYSXWOTgxHyA_KU4tXreswsb18U5d/view?usp=sharing)**|
 
 ---
 
