@@ -5,7 +5,7 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 ---
 
 
-## <img src="https://natulifecosmeticos.lojavirtual.com.br/arquivo/index/358535/17724_defult_text1509562877676.png" alt="drawing" style="width:100px;"/> [Documentação do Projeto PARTSCHECK](https://drive.google.com/file/d/1JqzCb1rRDAyr4hNpnj9JFu-kuB8YM7Vy/view?usp=sharing)
+## <img src="https://natulifecosmeticos.lojavirtual.com.br/arquivo/index/358535/17724_defult_text1509562877676.png" alt="drawing" style="width:100px;"/> [Documentação do Projeto PARTSCHECK](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)
 #### Última Atualização: 12/05
 
 
@@ -21,12 +21,12 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 | **10/03**   | ✔ **[Elaboração de Portfólio](https://pedro-pauletti.github.io/pedropauletti.github.io/)**|
 | **10/03**   | **Definição do grupo para o trabalho (Descrição abaixo)** |
 | **24/03**   | ✔ **[Pesquisa Estudo de Viabilidade](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/estudoViabilidade/)**| 
-| **30/03**   | ✔ **[Documento de Software - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1JqzCb1rRDAyr4hNpnj9JFu-kuB8YM7Vy/view?usp=sharing)**|
-| **07/04**   | ✔ **[Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](https://drive.google.com/file/d/1JqzCb1rRDAyr4hNpnj9JFu-kuB8YM7Vy/view?usp=sharing)**|
+| **30/03**   | ✔ **[Documento de Software - Sistema de Venda Inteligente para Componentes de Computadores](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
+| **07/04**   | ✔ **[Documentação do Projeto - Estudo de Viabilidade - Sistema de Venda Inteligente para Componentes de Computadores](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
 | **14/04**   | ✔ **[Pesquisa UML](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/UML/)**|
-| **14/04**   | ✔ **[Atualização da Documentação do Projeto](https://drive.google.com/file/d/1JqzCb1rRDAyr4hNpnj9JFu-kuB8YM7Vy/view?usp=sharing)**|
-| **21/04**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Classes](https://drive.google.com/file/d/1JqzCb1rRDAyr4hNpnj9JFu-kuB8YM7Vy/view?usp=sharing)**|
-| **12/05**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Sequência](https://drive.google.com/file/d/1JqzCb1rRDAyr4hNpnj9JFu-kuB8YM7Vy/view?usp=sharing)**|
+| **14/04**   | ✔ **[Atualização da Documentação do Projeto](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
+| **21/04**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Classes](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
+| **12/05**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Sequência](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
 
 ---
 
