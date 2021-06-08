@@ -6,7 +6,7 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 
 
 ## <img src="https://natulifecosmeticos.lojavirtual.com.br/arquivo/index/358535/17724_defult_text1509562877676.png" alt="drawing" style="width:100px;"/> [Documentação do Projeto PARTSCHECK](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)
-#### Última Atualização: 12/05
+#### Última Atualização: 08/06
 
 ---
 
@@ -23,7 +23,8 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 | **14/04**   | ✔ **[Atualização da Documentação do Projeto](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
 | **21/04**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Classes](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
 | **12/05**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Sequência](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
-
+| **08/06**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Sequência](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
+| **08/06**   | ✔ **[Atualização Mapa Mental](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/mapa-mental/)**|
 ---
 
 
