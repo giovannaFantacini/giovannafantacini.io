@@ -25,6 +25,7 @@ subtitle:  Análise e Projeto de Sistemas - Atividades Realizadas
 | **12/05**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Sequência](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
 | **08/06**   | ✔ **[Atualização da Documentação do Projeto - Diagrama de Sequência](https://docs.google.com/document/d/1OqkA-FcMX4Hweg9I1Bjwd7deo-DtwDVk_1H_He22XIo/edit?usp=sharing)**|
 | **08/06**   | ✔ **[Atualização Mapa Mental](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodo/mapa-mental/)**|
+| **08/06**   | ✔ **[Pesquisa BPMN](https://pedro-pauletti.github.io/pedropauletti.github.io/cursos/5periodocursos/5periodo/bpmn)**|
 ---
 
 
