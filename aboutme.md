@@ -4,7 +4,7 @@ title: Pedro Henrique Ton Pauletti
 subtitle: Estudante Engenharia da Computação
 ---
 
-> Vizualizar Currículo em [PDF](Curriculo v1 - Pedro Pauletti.pdf)
+> Vizualizar Currículo em [PDF](Currículo - Pedro Pauletti.pdf)
 
 <div style="text-align: justify"> Atualmente cursando o 5º período em Bacharelado de Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP - Campus Birigui. Entusiasta em novas tecnologias como Machine Learning, Data Science, Robótica, IOT, Desenvolvimento de hardware, Astronomia e Astrofísica.
 </div>
