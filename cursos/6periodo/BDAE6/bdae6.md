@@ -2,6 +2,7 @@
 layout: page
 title: BDAE6
 subtitle:  Banco de Dados 2 - Atividades Realizadas
+font: 52
 ---
 
 ---
