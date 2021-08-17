@@ -12,6 +12,7 @@ subtitle:  Banco de Dados 2 - Atividades Realizadas
 | ------- |:--------------------------------------------------------------------------------------------:| 
 | **03/08**   | ✔ **[Elaboração de Portfólio](https://pedro-pauletti.github.io/pedropauletti.github.io/)**|
 | **10/08**   | ✔ **[Pesquisa 1](https://drive.google.com/file/d/1-K6YQfg-XThKrnKITgbgvRg8TyTRcw_O/view?usp=sharing)**|
+| **17/08**   | ✔ **[Criação Tabelas SQL WORKSPACE](https://drive.google.com/file/d/1-K6YQfg-XThKrnKITgbgvRg8TyTRcw_O/view?usp=sharing)**|
 
 ---
 
