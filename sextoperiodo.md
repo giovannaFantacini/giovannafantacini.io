@@ -4,7 +4,7 @@ title: 6º PERÍODO
 subtitle: Engenharia da Computação
 ---
 
-# [BDAE6 - BANCO DE DADOS 2](cursos/6periodo/bdae6.md) 
+# [BDAE6 - BANCO DE DADOS 2](cursos/6periodo/BDAE6/bdae6.md) 
 # [ELAE6 - ELETRÔNICA ANALÓGICA](cursos/6periodo/elae6.md) 
 # [MAEE6 - MÁQUINAS ELÉTRICAS](cursos/6periodo/maee6.md) 
 # [MICE6 - MICROCONTROLADORES](cursos/6periodo/mice6.md) 
