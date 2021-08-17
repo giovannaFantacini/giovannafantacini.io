@@ -4,7 +4,7 @@ title: BDAE6
 subtitle:  Banco de Dados 2 - Atividades Realizadas
 output:
   slidy_presentation:
-    font_adjustment: +1
+    font_adjustment: +30
 ---
 
 ---
