@@ -30,4 +30,9 @@ Instring
 ```
 select substr('Pedro Henrique Ton Pauletti', instr('Pedro Henrique Ton Pauletti',' ', -1) + 1) lastName
 from   dual
+
+LASTNAME
+----
+Pauletti
+
 ```
