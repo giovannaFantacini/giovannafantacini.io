@@ -18,6 +18,7 @@ output:
 | **17/08**   | ✔ **[Criação Tabelas SQL WORKSPACE](aula17-08.md)**|
 | **24/08**   | ✔ **[Tabelas SQL WORKSPACE](tabelas24-08.md)**|
 | **31/08**   | ✔ **[Atividade](atividade31-08.md)**|
+| **31/08**   | ✔ **[Aula 31-08 - Resumo, Inserção de Dados e SELECT](aula31-08.md)**|
 
 ---
 
