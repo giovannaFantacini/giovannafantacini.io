@@ -4,9 +4,6 @@ title: Insert Tabelas
 subtitle:  BDAE62 - Atividade
 ---
 
----
-
-
 ```
 INSERT INTO UNIDADEMEDIDA(NOME, SIGLA) VALUES('Kilograma', 'kg')
 
