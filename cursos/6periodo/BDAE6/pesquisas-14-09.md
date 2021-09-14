@@ -4,7 +4,7 @@ title: Pesquisa 14/09
 subtitle:  BDAE62 - Atividade
 ---
 
-
+## Pesquisas
 1- Quantidade de resíduos entregues por data/tipo de resíduo, mostrando a data, o tipo de resíduo e a quantidade total;<br>
 2- Quantidade de resíduos entregues por data/ponto de coleta, mostrando a data, o ponto de coleta e a quantidade total;<br>
 3- Quantidade de resíduos entregues por data/cidadão, mostrando a data, o cidadão e a quantidade total;<br>
@@ -31,7 +31,7 @@ subtitle:  BDAE62 - Atividade
 24- Quantidade de resíduos por ano em uma cidade, mostrando ano e quantidade total;<br>
 
 
-
+## Execuções
 ```
 --1
 SELECT DATAENTREGA,TIPORESIDUO.NOME,QUANTIDADE
