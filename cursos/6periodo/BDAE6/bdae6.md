@@ -21,6 +21,6 @@ output:
 | **31/08**   | ✔ **[Aula 31-08 - Resumo, Inserção de Dados e SELECT](aula31-08.md)**|
 | **14/09**   | ✔ **[Insert Dados nas Tabelas](insert-tabelas-14-09.md)**|
 | **14/09**   | ✔ **[Aula 14-09 - Pesquisas](pesquisas-14-09.md)**|
-
+| **14/09**   | ✔ **[Aula 21-09 - Primeira Aplicação](aplicacao21-09.md)**|
 ---
 
