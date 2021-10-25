@@ -24,6 +24,7 @@ output:
 | **14/09**   | ✔ **[Atividade 14/09 - Primeira Aplicação](aplicacao21-09.md)**|
 | **21/09**   | ✔ **[Atividade 21/09 - Função Calcular Diferença entre Datas](funcaoDifDatas-28-09.md)**|
 | **05/10**   | ✔ **[Atividade 5/10 - Packages (Incluir, Alterar, Excluir, Buscar)](packages-05-10.md)**|
+| **05/10**   | ✔ **[Atividade 5/10 - Controle de Estoque](packages-05-10.md)**|
 
 ---
 
