@@ -23,7 +23,7 @@ output:
 | **14/09**   | ✔ **[Aula 14/09 - Pesquisas](pesquisas-14-09.md)**|
 | **14/09**   | ✔ **[Atividade 14/09 - Primeira Aplicação](aplicacao21-09.md)**|
 | **21/09**   | ✔ **[Atividade 21/09 - Função Calcular Diferença entre Datas](funcaoDifDatas-28-09.md)**|
-| **05/10**   | ✔ **[Atividade 5/10 - Packages (Incluir, Alterar, Excluir)](packages-28-09.md)**|
+| **05/10**   | ✔ **[Atividade 5/10 - Packages (Incluir, Alterar, Excluir)](packages-05-10.md)**|
 
 ---
 
