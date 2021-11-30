@@ -26,6 +26,7 @@ output:
 | **05/10**   | ✔ **[Atividade 5/10 - Packages (Incluir, Alterar, Excluir, Buscar)](packages-05-10.md)**|
 | **05/10**   | ✔ **[Atividade 5/10 - Controle de Estoque](estoque-05-10.md)**|
 | **26/10**   | ✔ **[Atividade 26/10 - Latitude e Longitude - SQL Developer](cidade-llp-27-10.md)**|
+| **23/11**   | ✔ **[PROJETO - SISTEMA PARA HOTEL - DIAGRAMA](diagrama-hotel.md)**|
 
 ---
 
