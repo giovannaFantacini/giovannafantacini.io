@@ -3,4 +3,5 @@ layout: page
 title: Diagrama - Sistema para Hotel 
 subtitle: Projeto BDAE2
 ---
-![diagrama](https://user-images.githubusercontent.com/57163905/144040933-b07b5eb8-8714-4552-a55c-7e233480a5f2.png)
+
+![diagrama](https://user-images.githubusercontent.com/57163905/144058126-7614427c-63f9-4532-8831-de165e1af0b7.png)
