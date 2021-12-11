@@ -27,6 +27,7 @@ output:
 | **05/10**   | ✔ **[Atividade 5/10 - Controle de Estoque](estoque-05-10.md)**|
 | **26/10**   | ✔ **[Atividade 26/10 - Latitude e Longitude - SQL Developer](cidade-llp-27-10.md)**|
 | **23/11**   | ✔ **[PROJETO - SISTEMA PARA HOTEL - DIAGRAMA](projeto-diagrama.md)**|
-
+| **14/12**   | ✔ **[PROJETO - SISTEMA PARA HOTEL - APRESENTAÇÃO](projeto-hotel.md)**|
+| **14/12**   | ✔ **[Comentário sobre o processo de ensino-aprendizagem da disciplina](comentario.md)**|
 ---
 
