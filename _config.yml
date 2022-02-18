@@ -15,10 +15,8 @@ author: Giovanna Fantacini
 
 navbar-links:
   Sobre mim: "aboutme"
-  Graduação:
-    - 5º Período: "quintoperiodo"
   Projetos: "projects"
-   
+  Contatos: "contato"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
