@@ -24,7 +24,7 @@ subtitle: Estudante Engenharia da Computação
 ---
 
 ## Idiomas 
-![FISK](assets/img/Fisk.jpeg)
+<img src="assets/img/Fisk.jpeg" alt="FISK" width="200"/>
 ##### Curso de Inglês - FISK
 ###### Período  2013 - 2019
 
