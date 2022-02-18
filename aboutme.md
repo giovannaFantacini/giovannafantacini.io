@@ -28,7 +28,7 @@ subtitle: Estudante Engenharia da Computação
 ##### Curso de Inglês - FISK
 ###### Período  2013 - 2019
 
-<img src="assets/img/FluencyAcademy.png" alt="FLUENCYACADEMY" width="200"/>
+<img src="assets/img/FluencyAcademy.png" alt="FLUENCYACADEMY" width="150" height="50"/>
 ##### Curso de Espanhol - Fluency Academy
 ###### Período  2020 - Presente
 ---
