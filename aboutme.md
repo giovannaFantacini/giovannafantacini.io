@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Pedro Henrique Ton Pauletti
+title: Giovanna Santos Fantacini
 subtitle: Estudante Engenharia da Computação
 ---
-
-> Vizualizar Currículo em [PDF](Currículo - Pedro Pauletti.pdf)
 
 <div style="text-align: justify"> Atualmente cursando o 6º período em Bacharelado de Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP - Campus Birigui. Entusiasta em novas tecnologias como Machine Learning, Data Science, Robótica, IOT, Desenvolvimento de hardware, Astronomia e Astrofísica.
 </div>
@@ -21,7 +19,7 @@ subtitle: Estudante Engenharia da Computação
 ![https://bri.ifsp.edu.br/](assets/img/ifsp2.png)
 ##### Instituto Federal de São Paulo Campus Birigui
 ###### Bacharelado Engenharia de Computação
-###### Período  2019 – 2023
+###### Período  2020 – 2024
 
 ---
 
