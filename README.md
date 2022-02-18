@@ -2,6 +2,6 @@
 
 # Giovanna Fantacini 
 
-## [Check on this link](https://pedro-pauletti.github.io/pedropauletti.github.io/)
+## [Check on this link](https://giovannafantacini.github.io/giovannafantacini.io/)
 
 ### Powered by Beautiful Jekyll
