@@ -27,6 +27,7 @@ subtitle: Estudante Engenharia da Computação
 ## Formação Escolar
 
 ![CLARETIANO](assets/img/claretiano.png)
+<img src="assets/img/claretiano.png" alt="CLARETIANO" width="150"/>
 ##### Claretiano - Colégio São José
 ###### Período  2005 – 2019
 
@@ -34,7 +35,6 @@ subtitle: Estudante Engenharia da Computação
 
 ## Idiomas 
 ![FISK](assets/img/Fisk.png)
-<img src="" alt="" width="150"/>
 ##### Curso de Inglês - FISK
 ###### Período  2013 - 2019
 
