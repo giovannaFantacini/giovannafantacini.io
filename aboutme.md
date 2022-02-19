@@ -22,6 +22,15 @@ subtitle: Estudante Engenharia da Computação
 ###### Período  2020 – 2024
 
 ---
+---
+
+## Formação Escolar
+
+![CLARETIANO](assets/img/claretiano.png)
+##### Claretiano - Colégio São José
+###### Período  2005 – 2019
+
+---
 
 ## Idiomas 
 ![FISK](assets/img/Fisk.png)
@@ -38,7 +47,7 @@ subtitle: Estudante Engenharia da Computação
 
 ![https://lattes.cnpq.br/](assets/img/lattesLogo.png)
 ##### Conheça minhas pesquisas:
-##### http://lattes.cnpq.br/9014975472550260
+###### http://lattes.cnpq.br/9014975472550260
 
 
 ---
