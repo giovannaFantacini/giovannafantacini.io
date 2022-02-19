@@ -1,3 +1,4 @@
+![FISK](assets/img/home.png)
 
 # Giovanna Fantacini 
 
