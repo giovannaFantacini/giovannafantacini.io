@@ -26,7 +26,6 @@ subtitle: Estudante Engenharia da Computação
 
 ## Formação Escolar
 
-![CLARETIANO](assets/img/claretiano.png)
 <img src="assets/img/claretiano.png" alt="CLARETIANO" width="150"/>
 ##### Claretiano - Colégio São José
 ###### Período  2005 – 2019
