@@ -34,3 +34,11 @@ subtitle: Estudante Engenharia da Computação
 ###### Período  2020 - Presente
 ---
 
+## Currículo Lattes
+
+![https://bri.ifsp.edu.br/](assets/img/ifsp2.png)
+##### Conheça minhas pesquisas:
+##### http://lattes.cnpq.br/9014975472550260
+
+
+---
