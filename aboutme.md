@@ -36,7 +36,7 @@ subtitle: Estudante Engenharia da Computação
 
 ## Currículo Lattes
 
-![https://bri.ifsp.edu.br/](assets/img/ifsp2.png)
+![https://lattes.cnpq.br/](assets/img/lattesLogo.png)
 ##### Conheça minhas pesquisas:
 ##### http://lattes.cnpq.br/9014975472550260
 
