@@ -21,7 +21,7 @@ subtitle: Estudante Engenharia da Computação
 ![https://bri.ifsp.edu.br/](assets/img/ifsp2.png)
 ##### Instituto Federal de São Paulo Campus Birigui
 ###### Bacharelado Engenharia de Computação
-###### Período  2020 – 2024
+###### Período  2020 – 2025
 
 ---
 ---
