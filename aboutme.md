@@ -24,7 +24,6 @@ subtitle: Estudante Engenharia da Computação
 ###### Período  2020 – 2025
 
 ---
----
 
 ## Formação Escolar
 
