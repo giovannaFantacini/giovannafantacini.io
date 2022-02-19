@@ -24,12 +24,12 @@ subtitle: Estudante Engenharia da Computação
 ---
 
 ## Idiomas 
-![FISK](assets/img/Fisk.jpeg)
+![FISK](assets/img/Fisk.png)
 <img src="" alt="" width="150"/>
 ##### Curso de Inglês - FISK
 ###### Período  2013 - 2019
 
-![FLUENCYACADEMY](assets/img/FluencyAcademy.png)
+![FLUENCYACADEMY](assets/img/fluency.png)
 ##### Curso de Espanhol - Fluency Academy
 ###### Período  2020 - Presente
 ---
