@@ -13,7 +13,7 @@ output:
 
 | **Data**    | **Atividade**      |
 | ------- |:--------------------------------------------------------------------------------------------:| 
-| **24/02**   | ✔ **[Elaboração de Portfólio](https://giovannafantacini.github.io/giovannafantacini.io/)**|
-| **24/02**   | ✔ **[Memorial do aluno](https://giovannafantacini.github.io/giovannafantacini.io/aboutme/)**|
+| **08/03**   | ✔ **[Elaboração de Portfólio](https://giovannafantacini.github.io/giovannafantacini.io/)**|
+| **08/03**   | ✔ **[Memorial do aluno](https://giovannafantacini.github.io/giovannafantacini.io/aboutme/)**|
 
 ---
