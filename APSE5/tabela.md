@@ -15,6 +15,7 @@ output:
 | **24/02**   | ✔ **[Elaboração de Portfólio](https://giovannafantacini.github.io/giovannafantacini.io/)**|
 | **24/02**   | ✔ **[Memorial do aluno](https://giovannafantacini.github.io/giovannafantacini.io/aboutme/)**|
 | **02/03**   | ✔ **[Pesquisa sobre requisitos](Atividades/Requisitos.pdf)**|
+| **02/03**   | **[Projeto Receita virtual](Atividades/Requisitos.pdf)**|
 
 ---
 
