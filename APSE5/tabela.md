@@ -15,7 +15,7 @@ output:
 | **24/02**   | ✔ **[Elaboração de Portfólio](https://giovannafantacini.github.io/giovannafantacini.io/)**|
 | **24/02**   | ✔ **[Memorial do aluno](https://giovannafantacini.github.io/giovannafantacini.io/aboutme/)**|
 | **02/03**   | ✔ **[Pesquisa sobre requisitos](Atividades/Requisitos.pdf)**|
-| **14/03**   | ✔ **[Requisistos Receita Medica](https://docs.google.com/document/d/17w2iCt25jdSfD3fOOLtCA8yoCzZwHB1c9ZCQX_UrwFY/edit)**|
+| **14/03**   | ✔ **[Requisistos Receita Médica](https://docs.google.com/document/d/17w2iCt25jdSfD3fOOLtCA8yoCzZwHB1c9ZCQX_UrwFY/edit)**|
 
 ---
 
