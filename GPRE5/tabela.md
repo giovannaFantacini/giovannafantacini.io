@@ -23,5 +23,6 @@ output:
 | **02/04**   | ✔ **[Dicionario EAP](https://docs.google.com/document/d/12TvCQ-k6KBFQ2FQu9Mc-sEa04WdTr0hntIileFiFmS8/edit?usp=sharing)**|
 | **02/04**   | ✔ **[Trello](https://trello.com/invite/b/M8nQWNKk/5cc2fcf0dce2b90e5d506f50a493a3c3/gestaoreceitavirtual)**|
 | **02/04**   | ✔ **[Apresentação sobre o Projeto](https://docs.google.com/presentation/d/1ylKlqRKSMAPuR_SLqZEHEDsZDup4J3Wh7TKkau1YnYw/edit?usp=sharing)**|
+| **19/04**   | ✔ **[Festival Arandu](Atividades/FestivalArandu.pdf)**|
 
 ---
