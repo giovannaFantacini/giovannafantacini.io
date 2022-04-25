@@ -18,6 +18,10 @@ output:
 | **14/03**   | ✔ **[Requisistos Receita Médica](https://docs.google.com/document/d/17w2iCt25jdSfD3fOOLtCA8yoCzZwHB1c9ZCQX_UrwFY/edit)**|
 | **06/04**   | ✔ **[Diagrama de Caso de Uso](https://docs.google.com/document/d/10yKP2XiJFviRA-jOnXl1KFuf1LWa_1B0MvyDw1tzako/edit?usp=sharing)**|
 | **06/04**   | ✔ **[Diagrama de Domínio](https://docs.google.com/document/d/1ffnylOiWnYWIs7UQR2NoTzmizPeWPA47Trwa--QpogY/edit?usp=sharing)**|
+| **20/04**   |  **[Diagrama de Objeto](https://docs.google.com/document/d/1DltzRUSYV90QyMGR3z0pnKa3TWbyIPy--VO8v7uZeDY/edit?usp=sharing)**|
+| **20/04**   | ✔ **[Diagrama de Classe](https://docs.google.com/document/d/12vthy9ZPtP9_1GL6VB4korrS87HuWsfDhZg2aK5PaCE/edit?usp=sharing)**|
+| **28/04**   | ✔ **[Estudo sobre Diagrama de Atividades](Atividades/DiagramaDeAtividades.pdf)**|
+| **28/04**   | ✔ **[Estudo sobre Diagrama de Estados](Atividades/DiagramaDeEstados.pdf)**|
 
 ---
 
