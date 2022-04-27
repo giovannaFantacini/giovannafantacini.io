@@ -22,7 +22,7 @@ output:
 | **20/04**   | ✔ **[Diagrama de Classe](https://docs.google.com/document/d/12vthy9ZPtP9_1GL6VB4korrS87HuWsfDhZg2aK5PaCE/edit?usp=sharing)**|
 | **28/04**   | ✔ **[Estudo sobre Diagrama de Atividades](Atividades/DiagramaDeAtividades.pdf)**|
 | **28/04**   | ✔ **[Estudo sobre Diagrama de Estados](Atividades/DiagramaDeEstados.pdf)**|
-| **28/04**   | ✔ **[Apresentação Diagrama de Estados e de Atividades](Atividades/ApresentacaoDiagramas.pdf)**|
+| **28/04**   | ✔ **[Apresentação Diagrama de Estados e de Atividades](Atividades/ApresentaçâoDiagramas.pdf)**|
 
 ---
 
