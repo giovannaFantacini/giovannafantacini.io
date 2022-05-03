@@ -26,5 +26,6 @@ output:
 | **05/04**   | ✔ **[Trabalho desenvolvido na 3° Sprint](https://drive.google.com/drive/folders/1E2P56ngNy_hte9STJSArx-FcmsvTRMie?usp=sharing)**|
 | **19/04**   | ✔ **[Festival Arandu](Atividades/FestivalArandu.pdf)**|
 | **19/04**   | ✔ **[Trabalho desenvolvido na 4° Sprint](https://drive.google.com/drive/folders/13cBLvGbgXZIGMbg_pCWyEhw3J4o7T0UQ?usp=sharing)**|
+| **03/05**   | ✔ **[Trabalho desenvolvido na 5° Sprint](https://drive.google.com/drive/folders/1lS9ummz8pRQnx5QBG7VoS8dEK2TH2WWh?usp=sharing)**|
 
 ---
