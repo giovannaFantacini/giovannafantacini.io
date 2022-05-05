@@ -25,6 +25,7 @@ output:
 | **28/04**   | ✔ **[Estudo sobre Diagrama de Estados](Atividades/DiagramaDeEstados.pdf)**|
 | **28/04**   | ✔ **[Apresentação Diagrama de Estados e de Atividades](Atividades/ApresentacaoDiagramas.pdf)**|
 | **30/04**   | ✔ **[Diagrama de Atividades](https://docs.google.com/document/d/1tIoDNZKU67gI91BvVl-xFEkmgZMa1f-sZYW0vVEHxmY/edit?usp=sharing)**|
+| **05/05**   | ✔ **[Projeto de Dados](https://docs.google.com/document/d/1X4F-6k5bEo054kr_ldZHR3M4FXMQJktwWasQKKNfuBQ/edit?usp=sharing)**|
 
 ---
 
