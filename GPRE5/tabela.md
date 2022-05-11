@@ -27,5 +27,6 @@ output:
 | **19/04**   | ✔ **[Festival Arandu](Atividades/FestivalArandu.pdf)**|
 | **19/04**   | ✔ **[Trabalho desenvolvido na 4° Sprint](https://drive.google.com/drive/folders/13cBLvGbgXZIGMbg_pCWyEhw3J4o7T0UQ?usp=sharing)**|
 | **03/05**   | ✔ **[Trabalho desenvolvido na 5° Sprint](https://drive.google.com/drive/folders/1lS9ummz8pRQnx5QBG7VoS8dEK2TH2WWh?usp=sharing)**|
+| **10/05**   | ✔ **[Visão geral sobre gestão de projetos](https://docs.google.com/document/d/1A6xnlqs5VpcULhhDglc4IQznDETKKCqJj4FHNeREG58/edit?usp=sharing)**|
 
 ---
