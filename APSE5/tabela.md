@@ -28,6 +28,7 @@ output:
 | **05/05**   | ✔ **[Projeto de Dados](https://docs.google.com/document/d/1X4F-6k5bEo054kr_ldZHR3M4FXMQJktwWasQKKNfuBQ/edit?usp=sharing)**|
 | **12/05**   | ✔ **[Estudo diagrama de classe de projeto](Atividades/DiagramaDeClasseDeProjeto.pdf)**|
 | **12/05**   | ✔ **[Estudo diagrama de pacote](Atividades/DiagramadePacote.pdf)**|
+| **12/05**   |  **[Elaboração do documento final](https://docs.google.com/document/d/1hX8-y8aBUQ58xaxR89YZ8Wgj9zDPYtFNl37nypS2AxI/edit?usp=sharing)**|
 
 ---
 
