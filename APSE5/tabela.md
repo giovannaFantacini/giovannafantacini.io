@@ -15,7 +15,7 @@ output:
 | **24/02**   | ✔ **[Elaboração de Portfólio](https://giovannafantacini.github.io/giovannafantacini.io/)**|
 | **24/02**   | ✔ **[Memorial do aluno](https://giovannafantacini.github.io/giovannafantacini.io/aboutme/)**|
 | **02/03**   | ✔ **[Pesquisa sobre requisitos](Atividades/Requisitos.pdf)**|
-| **14/03**   | ✔ **[Requisistos Receita Médica](https://docs.google.com/document/d/17w2iCt25jdSfD3fOOLtCA8yoCzZwHB1c9ZCQX_UrwFY/edit)**|
+| **14/03**   | ✔ **[Requisistos Receita Virtual](https://docs.google.com/document/d/17w2iCt25jdSfD3fOOLtCA8yoCzZwHB1c9ZCQX_UrwFY/edit)**|
 | **06/04**   | ✔ **[Diagrama de Caso de Uso](https://docs.google.com/document/d/10yKP2XiJFviRA-jOnXl1KFuf1LWa_1B0MvyDw1tzako/edit?usp=sharing)**|
 | **06/04**   | ✔ **[Especificação dos Casos de Uso](https://docs.google.com/document/d/1O8iXkl4P6KlN44eZKUuuZZqS6fnWuIYJChssNbeUrjc/edit?usp=sharing)**|
 | **06/04**   | ✔ **[Diagrama de Domínio](https://docs.google.com/document/d/1ffnylOiWnYWIs7UQR2NoTzmizPeWPA47Trwa--QpogY/edit?usp=sharing)**|
@@ -29,7 +29,8 @@ output:
 | **12/05**   | ✔ **[Estudo diagrama de classe de projeto](Atividades/DiagramaDeClasseDeProjeto.pdf)**|
 | **12/05**   | ✔ **[Estudo diagrama de pacote](Atividades/DiagramadePacote.pdf)**|
 | **12/05**   | ✔ **[Estudo diagrama de sequência](Atividades/PesquisaDiagramadeSequencia.pdf)**|
-| **12/05**   |  **[Elaboração do documento final](https://docs.google.com/document/d/1hX8-y8aBUQ58xaxR89YZ8Wgj9zDPYtFNl37nypS2AxI/edit?usp=sharing)**|
+| **16/05**   | ✔ **[Apresentação sobre o projeto Receita Virtual](https://drive.google.com/drive/folders/1mmxTfadAaMOsdANNipppOd-DcQP4-mzk?usp=sharing)**|
+| **17/05**   |  **[Elaboração do documento final](https://docs.google.com/document/d/1hX8-y8aBUQ58xaxR89YZ8Wgj9zDPYtFNl37nypS2AxI/edit?usp=sharing)**|
 
 ---
 
