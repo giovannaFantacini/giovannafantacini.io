@@ -21,6 +21,7 @@ output:
 | **02/04**   | ✔ **[Escopo](https://docs.google.com/document/d/1ktoJXDZPh0qREMrnHch-rXsOS0G8CEyvLQF9mO0HrLs/edit?usp=sharing)**|
 | **02/04**   | ✔ **[Diagrama de Gantt](https://docs.google.com/spreadsheets/d/1KdBNrJeSerPNAUN9_EOkNh_04BfhLp7mWcpIrWtWh4U/edit?usp=sharing)**|
 | **02/04**   | ✔ **[Dicionario EAP](https://docs.google.com/document/d/12TvCQ-k6KBFQ2FQu9Mc-sEa04WdTr0hntIileFiFmS8/edit?usp=sharing)**|
+| **02/04**   | ✔ **[Matriz de Responsabilidade](https://docs.google.com/document/d/1QEzKJuVQ_O3DDfMyseGWUBDp-vjy89Ob_hoEaRDJ-UY/edit?usp=sharing)**|
 | **02/04**   | ✔ **[Trello](https://trello.com/invite/b/M8nQWNKk/5cc2fcf0dce2b90e5d506f50a493a3c3/gestaoreceitavirtual)**|
 | **02/04**   | ✔ **[Apresentação sobre o Projeto](https://docs.google.com/presentation/d/1ylKlqRKSMAPuR_SLqZEHEDsZDup4J3Wh7TKkau1YnYw/edit?usp=sharing)**|
 | **05/04**   | ✔ **[Trabalho desenvolvido na 3° Sprint](https://drive.google.com/drive/folders/1E2P56ngNy_hte9STJSArx-FcmsvTRMie?usp=sharing)**|
