@@ -31,6 +31,7 @@ output:
 | **12/05**   | ✔ **[Estudo diagrama de pacote](Atividades/DiagramadePacote.pdf)**|
 | **12/05**   | ✔ **[Estudo diagrama de sequência](Atividades/PesquisaDiagramadeSequencia.pdf)**|
 | **16/05**   | ✔ **[Apresentação sobre o projeto Receita Virtual(semana da informatica)](https://drive.google.com/drive/folders/1mmxTfadAaMOsdANNipppOd-DcQP4-mzk?usp=sharing)**|
+| **19/05**   | ✔ **[Diagrama de classe de projeto](https://docs.google.com/document/d/1xsDVNcud3D8tBcW9KH4lqqjxxvi7_7S-gcoc0cBrGN8/edit?usp=sharing)**|
 | **17/05**   |  **[Elaboração do documento final](https://docs.google.com/document/d/1hX8-y8aBUQ58xaxR89YZ8Wgj9zDPYtFNl37nypS2AxI/edit?usp=sharing)**|
 
 ---
