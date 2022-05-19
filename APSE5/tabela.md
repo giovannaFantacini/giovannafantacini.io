@@ -29,7 +29,7 @@ output:
 | **12/05**   | ✔ **[Estudo diagrama de classe de projeto](Atividades/DiagramaDeClasseDeProjeto.pdf)**|
 | **12/05**   | ✔ **[Estudo diagrama de pacote](Atividades/DiagramadePacote.pdf)**|
 | **12/05**   | ✔ **[Estudo diagrama de sequência](Atividades/PesquisaDiagramadeSequencia.pdf)**|
-| **16/05**   | ✔ **[Apresentação sobre o projeto Receita Virtual](https://drive.google.com/drive/folders/1mmxTfadAaMOsdANNipppOd-DcQP4-mzk?usp=sharing)**|
+| **16/05**   | ✔ **[Apresentação sobre o projeto Receita Virtual(semana da informatica)](https://drive.google.com/drive/folders/1mmxTfadAaMOsdANNipppOd-DcQP4-mzk?usp=sharing)**|
 | **17/05**   |  **[Elaboração do documento final](https://docs.google.com/document/d/1hX8-y8aBUQ58xaxR89YZ8Wgj9zDPYtFNl37nypS2AxI/edit?usp=sharing)**|
 
 ---
