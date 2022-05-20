@@ -6,7 +6,6 @@ output:
   slidy_presentation:
     font_adjustment: +30
 ---
-
 ---
 
 # Tabela de Atividades
@@ -30,8 +29,9 @@ output:
 | **03/05**   | ✔ **[Trabalho desenvolvido na 5° Sprint](https://drive.google.com/drive/folders/1lS9ummz8pRQnx5QBG7VoS8dEK2TH2WWh?usp=sharing)**|
 | **10/05**   | ✔ **[Visão geral sobre gestão de projetos](https://docs.google.com/document/d/1A6xnlqs5VpcULhhDglc4IQznDETKKCqJj4FHNeREG58/edit?usp=sharing)**|
 | **16/05**   | ✔ **[Apresentação sobre o projeto Receita Virtual(semana da informatica)](https://drive.google.com/drive/folders/1mmxTfadAaMOsdANNipppOd-DcQP4-mzk?usp=sharing)**|
----
 
 ---
 
+
+---
 
