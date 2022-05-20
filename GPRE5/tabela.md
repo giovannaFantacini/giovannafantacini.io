@@ -31,3 +31,7 @@ output:
 | **10/05**   | ✔ **[Visão geral sobre gestão de projetos](https://docs.google.com/document/d/1A6xnlqs5VpcULhhDglc4IQznDETKKCqJj4FHNeREG58/edit?usp=sharing)**|
 | **16/05**   | ✔ **[Apresentação sobre o projeto Receita Virtual(semana da informatica)](https://drive.google.com/drive/folders/1mmxTfadAaMOsdANNipppOd-DcQP4-mzk?usp=sharing)**|
 ---
+
+---
+
+
