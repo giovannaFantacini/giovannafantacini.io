@@ -30,6 +30,9 @@ output:
 | **10/05**   | ✔ **[Visão geral sobre gestão de projetos](https://docs.google.com/document/d/1A6xnlqs5VpcULhhDglc4IQznDETKKCqJj4FHNeREG58/edit?usp=sharing)**|
 | **24/05**   | ✔ **[Iniciação](https://drive.google.com/drive/folders/1kItLloMvaYvI1LeY96YHpcXaSFs2Yfwq?usp=sharing)**|
 | **24/05**   | ✔ **[Planejamento](https://drive.google.com/drive/folders/1mRFYX9eOGijzYldQD5yrFs9dunhiGwCw?usp=sharing)**|
+| **24/05**   | ✔ **[Execução](https://drive.google.com/drive/folders/1YHJnuTA_dpH_64dffQ19WGLXCtiLALZ6?usp=sharing)**|
+| **24/05**   | ✔ **[Monitoramento e controle](https://drive.google.com/drive/folders/13IQLtBypV4jGlHKCbfMfGvKIeWg0SEpI?usp=sharing)**|
+| **24/05**   | ✔ **[Encerramento](https://drive.google.com/drive/folders/1UvNwZQEN72N1tcSs1ObUfPxhWj4dprAp?usp=sharing)**|
 | **24/05**   | ✔ **[Apresentação sobre o projeto Receita Virtual(semana da informatica)](https://drive.google.com/drive/folders/1mmxTfadAaMOsdANNipppOd-DcQP4-mzk?usp=sharing)**|
 
 ---
