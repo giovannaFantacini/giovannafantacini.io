@@ -36,7 +36,7 @@ output:
 | **19/05**   | ✔ **[Diagrama de sequência](https://docs.google.com/document/d/1lL3F7_-j9v_XAXoSyikbV_k4WlxPARxOOGOIgoxOTSk/edit?usp=sharing)**|
 | **26/05**   | ✔ **[Pesquisa Padrões de Projeto](https://docs.google.com/document/d/1w2Wi89WcMau89s9IsF4vZcVwrxduN1fdNZRCQcUUako/edit?usp=sharing)**|
 | **26/05**   | ✔ **[Diagrama de Componentes](https://docs.google.com/document/d/1i1mcwalr4hmc2uFratGFOAqjnbZ8aU3JqCAOGXNDhPM/edit?usp=sharing)**|
-| **26/05**   |  **[Documento final](Atividades/APSE_ProjetoFinal (1))**|
+| **26/05**   | ✔ **[Documento final](Atividades/APSE_ProjetoFinal (1))**|
 
 ---
 
