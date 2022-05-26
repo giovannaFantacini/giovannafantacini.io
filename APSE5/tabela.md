@@ -35,6 +35,7 @@ output:
 | **19/05**   | ✔ **[Diagrama de classe de projeto](https://docs.google.com/document/d/1xsDVNcud3D8tBcW9KH4lqqjxxvi7_7S-gcoc0cBrGN8/edit?usp=sharing)**|
 | **19/05**   | ✔ **[Diagrama de sequência](https://docs.google.com/document/d/1lL3F7_-j9v_XAXoSyikbV_k4WlxPARxOOGOIgoxOTSk/edit?usp=sharing)**|
 | **26/05**   | ✔ **[Pesquisa Padrões de Projeto](https://docs.google.com/document/d/1w2Wi89WcMau89s9IsF4vZcVwrxduN1fdNZRCQcUUako/edit?usp=sharing)**|
+| **26/05**   | ✔ **[Diagrama de Componentes](https://docs.google.com/document/d/1i1mcwalr4hmc2uFratGFOAqjnbZ8aU3JqCAOGXNDhPM/edit?usp=sharing)**|
 | **17/05**   |  **[Elaboração do documento final](https://docs.google.com/document/d/1hX8-y8aBUQ58xaxR89YZ8Wgj9zDPYtFNl37nypS2AxI/edit?usp=sharing)**|
 
 ---
