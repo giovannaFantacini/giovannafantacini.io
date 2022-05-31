@@ -28,6 +28,11 @@ output:
 | **19/04**   | ✔ **[Trabalho desenvolvido na 4° Sprint](https://drive.google.com/drive/folders/13cBLvGbgXZIGMbg_pCWyEhw3J4o7T0UQ?usp=sharing)**|
 | **03/05**   | ✔ **[Trabalho desenvolvido na 5° Sprint](https://drive.google.com/drive/folders/1lS9ummz8pRQnx5QBG7VoS8dEK2TH2WWh?usp=sharing)**|
 | **10/05**   | ✔ **[Visão geral sobre gestão de projetos](https://docs.google.com/document/d/1A6xnlqs5VpcULhhDglc4IQznDETKKCqJj4FHNeREG58/edit?usp=sharing)**|
+| **24/05**   | ✔ **[Modelos de Iniciação](https://drive.google.com/drive/folders/1E6DuqX6NF3AubBv8_WOLz_AFTlOEbdKd?usp=sharing)**|
+| **24/05**   | ✔ **[Modelos de Planejamento](https://drive.google.com/drive/folders/1fwUTTVLweUp0mnsYEUjyddGUTvovlVI_?usp=sharing)**|
+| **24/05**   | ✔ **[Modelos de Execução](https://drive.google.com/drive/folders/1qII947WfplQI3_YWeWHTcSkdvVokOHMF?usp=sharing)**|
+| **24/05**   | ✔ **[Modelos de Monitoramento e controle](https://drive.google.com/drive/folders/14idV8EyHeOUzUk1E-FwA618MK0aDhBkb?usp=sharing)**|
+| **24/05**   | ✔ **[Modelos de Encerramento](https://drive.google.com/drive/folders/1DD10EVU8CuwGLJ2j8NE9mO3VKH-VNgSx?usp=sharing)**|
 | **24/05**   | ✔ **[Iniciação](https://drive.google.com/drive/folders/1kItLloMvaYvI1LeY96YHpcXaSFs2Yfwq?usp=sharing)**|
 | **24/05**   | ✔ **[Planejamento](https://drive.google.com/drive/folders/1mRFYX9eOGijzYldQD5yrFs9dunhiGwCw?usp=sharing)**|
 | **24/05**   | ✔ **[Execução](https://drive.google.com/drive/folders/1YHJnuTA_dpH_64dffQ19WGLXCtiLALZ6?usp=sharing)**|
