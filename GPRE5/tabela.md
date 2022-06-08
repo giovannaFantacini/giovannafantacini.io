@@ -37,9 +37,9 @@ output:
 | **24/05**   | ✔ **[Encerramento](https://drive.google.com/drive/folders/1UvNwZQEN72N1tcSs1ObUfPxhWj4dprAp?usp=sharing)**|
 | **24/05**   | ✔ **[Apresentação sobre o projeto Receita Virtual(semana da informatica)](https://drive.google.com/drive/folders/1mmxTfadAaMOsdANNipppOd-DcQP4-mzk?usp=sharing)**|
 | **21/06**   | ✔ **[Mapa Mental](Atividades/MapaMentalGerencia.png)**|
----
-
 
 ---
 
+
+---
 
