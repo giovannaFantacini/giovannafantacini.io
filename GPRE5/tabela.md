@@ -1,8 +1,7 @@
-
 ---
 layout: page
 title: GPSE
-subtitle: Gerência de Projetos - Atividades Realizadas
+subtitle:  Gerência de Projetos - Atividades Realizadas
 output:
   slidy_presentation:
     font_adjustment: +30
