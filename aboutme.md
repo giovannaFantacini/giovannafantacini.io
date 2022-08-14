@@ -4,7 +4,7 @@ title: Giovanna Santos Fantacini
 subtitle: Estudante Engenharia da Computação
 ---
 
-<div style="text-align: justify"> Cursando o 5º semestre em Engenharia da Computação
+<div style="text-align: justify"> Cursando o 6º semestre em Engenharia da Computação
 </div>
 
 ---
