@@ -13,7 +13,7 @@ output:
 | **Data**    | **Atividade**      |
 | ------- |:--------------------------------------------------------------------------------------------:| 
 | **14/08**   | ✔ **[Elaboração de Portfólio](https://giovannafantacini.github.io/giovannafantacini.io/)**|
-| **22/08**   | ✔ **[Seleção de dados para análise](SelecaoDeDados-Grupo02.pdf)**|
+| **22/08**   | ✔ **[Seleção de dados para análise](Atividades/SelecaoDeDados-Grupo02.pdf)**|
 
 
 ---
