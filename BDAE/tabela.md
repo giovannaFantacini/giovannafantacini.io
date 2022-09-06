@@ -14,6 +14,7 @@ output:
 | ------- |:--------------------------------------------------------------------------------------------:| 
 | **14/08**   | ✔ **[Elaboração de Portfólio](https://giovannafantacini.github.io/giovannafantacini.io/)**|
 | **22/08**   | ✔ **[Seleção de dados para análise](Atividades/SelecaoDeDados-Grupo02(1).pdf)**|
+| **30/08**   | ✔ **[Diagrama de Domínio](Atividades/Diagrama de Domínio-Grupo02.pdf)**|
 
 
 ---
