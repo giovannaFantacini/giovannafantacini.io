@@ -4,14 +4,14 @@ title: Giovanna Santos Fantacini
 subtitle: Estudante Engenharia da Computação
 ---
 
-<div style="text-align: justify"> Cursando o 6º semestre em Engenharia da Computação
+<div style="text-align: justify"> Cursando o 9º semestre em Engenharia da Computação
 </div>
 
 ---
 
 ## Minha História
 <div style="text-align: justify"> 
-  Nasci em Batatais-SP, tenho 19 anos, filha de comerciantes, meu pai foi programador e atualmente possui uma loja de música e informatica, o que sempre me manteve em contato com várias tecnologias, entretanto, o meu interesse pela área só começou a surgir no ensino médio, como tinha afinidade com as matérias de matemática e física comecei minha busca por cursos que relacionassem as duas áreas e tivessem algo a mais do meu interesse, durante a busca descobri o curso de Engenharia da Computação e fiz algumas aulas de programação para confirmar meu interesse na área. Atualmente, estou cursando o 5º semestre de Engenharia da Computação e estou realizando minha segunda iniciação científica, com o título “Aplicação móvel para consumo de serviços em uma infraestrutura de IoT”.
+  Nasci em Batatais-SP, tenho 21 anos, filha de comerciantes, meu pai foi programador e atualmente possui uma loja de música e informatica, o que sempre me manteve em contato com várias tecnologias, entretanto, o meu interesse pela área só começou a surgir no ensino médio, como tinha afinidade com as matérias de matemática e física comecei minha busca por cursos que relacionassem as duas áreas e tivessem algo a mais do meu interesse, durante a busca descobri o curso de Engenharia da Computação e fiz algumas aulas de programação para confirmar meu interesse na área. Atualmente, estou cursando o 9º semestre de Engenharia da Computação, durante a gradação realizei duas iniciações científica, uma com o título “Aplicação móvel para consumo de serviços em uma infraestrutura de IoT” e outra na área de economia, além disso, tambem realizei uma mobilidade esudantil durante o 6º semestre para Portugal.
 </div>
 
 ---
